@@ -1,4 +1,4 @@
-# Project Name: Secure Amazon App Deployment: A DevSecOps Approach
+# Secure Amazon App Deployment: A DevSecOps Approach
 ![Pipeline Diagram](/public/images/pipeline-diagram.png)
 
 
