@@ -27,7 +27,7 @@ This project demonstrates a secure deployment pipeline for Amazon apps using a D
 4. **Scan with Trivy**:
    - Use Trivy to scan Docker images for vulnerabilities before deployment.
 
-## Why DevSecOps?
+## DevSecOps Approach
 
 DevSecOps ensures that security is a continuous, integrated part of the development process rather than an afterthought. By automating security checks and incorporating them into the CI/CD pipeline, we can catch and address vulnerabilities early, resulting in more secure and reliable applications. Whether you're an experienced developer looking to enhance your DevSecOps skills or a newcomer eager to explore this exciting field, this guide will help you safeguard your Amazon app while ensuring smooth and efficient deployment.
 
